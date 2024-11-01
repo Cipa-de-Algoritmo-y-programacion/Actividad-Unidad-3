@@ -1,5 +1,5 @@
-Ejercicios 0/6
-🟢🟢🟢⚪⚪⚪
+Ejercicios 4/7
+🟢🟢🟢🟢⚪⚪⚪
 # Actividad Unidad 3
 En este repositorio se subirán los ejercicios a realizar en la actividad de la unidad 3
 <h3>Resolver Los ejercicios <strong>5,6,7,11,13,14 y 15</strong></h3>
