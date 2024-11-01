@@ -7,23 +7,23 @@ En este repositorio se subirán los ejercicios a realizar en la actividad de la 
 ## Ejercicios a resolver:
  ---
 5. Crear un programa que permita calcular la raíz cuadrada de un numero.
-   Solución : <a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-Unidad-3/blob/main/Ejercicio5.java">archivo</a
+**Solución**: <a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-Unidad-3/blob/main/Ejercicio5.java">archivo</a
                                                                                                                                   
 ---
 7. Crear un programa que permite calcular un número al azar de 1 a 50.
-    Solución : <a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-Unidad-3/blob/main/Ejercicio6.java">archivo</a>
+**Solución**: <a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-Unidad-3/blob/main/Ejercicio6.java">archivo</a>
 
 ---
 9. Desarrollar un algoritmo que permita calcular si un numero ingresa por
 teclado es perfecto o no. (Consultar el concepto de número perfecto).
- Solución : <a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-Unidad-3/blob/main/Ejercicio7.java">archivo</a>
+**Solución**: <a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-Unidad-3/blob/main/Ejercicio7.java">archivo</a>
 
 ---
 
 11. Crear un programa con un menú (1. Sumar, 2. Restar, 3. Multiplicar, 4.
 Dividir y 5. Salir), y según la opción que selecciones el usuario del sistema
 pida dos números, los mande en una función y retorne el valor.
- Solución : <a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-Unidad-3/blob/main/Ejercicio5.java">archivo</a>
+**Solución**: <a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-Unidad-3/blob/main/Ejercicio5.java">archivo</a>
 
 ---
 
