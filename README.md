@@ -32,5 +32,5 @@ pida dos números, los mande en una función y retorne el valor.<br>
 14. Desarrollar un algoritmo que permita calcular si un numero ingresa por
 teclado es perfecto o no. (Consultar el concepto de número perfecto).
 ---
-15. Desarrollar una función recursiva que calcule el factorial de un número. 
+15. Desarrollar una función recursiva que calcule el factorial de un número. <br>
 **Solución**: <a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-Unidad-3/blob/main/Punto15.java">archivo</a>
