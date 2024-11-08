@@ -12,7 +12,8 @@ En este repositorio se subirán los ejercicios a realizar en la actividad de la 
 ---
 6. Desarrollar un algoritmo que elimine un elemento ingresado por teclado de un arreglo e imprima la posición en que fue eliminado y el nuevo arreglo.<br>
 **Solución**: <a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-Unidad-3/blob/main/Ejercicio6.java">archivo</a>
- 
+
+---
 7. Crear un programa que permite calcular un número al azar de 1 a 50.<br>
 **Solución**: <a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-Unidad-3/blob/main/Ejercicio6.java">archivo</a>
 
