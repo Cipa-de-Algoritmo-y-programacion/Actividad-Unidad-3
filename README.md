@@ -1,5 +1,5 @@
-Ejercicios 5/7
-🟢🟢🟢🟢🟢⚪⚪
+Ejercicios 6/7
+🟢🟢🟢🟢🟢🟢⚪
 # Actividad Unidad 3
 En este repositorio se subirán los ejercicios a realizar en la actividad de la unidad 3
 <h3>Resolver Los ejercicios <strong>5,6,7,11,13,14 y 15</strong></h3>
@@ -27,6 +27,7 @@ En este repositorio se subirán los ejercicios a realizar en la actividad de la 
 ---
 14. Desarrollar un algoritmo que permita calcular si un numero ingresa por
 teclado es perfecto o no. (Consultar el concepto de número perfecto). <br>
+**Solución**: <a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-Unidad-3/blob/main/NumeroPerfecto.java">archivo</a>
 
 ---
 15. Desarrollar una función recursiva que calcule el factorial de un número. <br>
