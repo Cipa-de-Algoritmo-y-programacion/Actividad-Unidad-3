@@ -1,5 +1,5 @@
-Ejercicios 6/7
-🟢🟢🟢🟢🟢🟢⚪
+Ejercicios 7/7
+🟢🟢🟢🟢🟢🟢🟢
 # Actividad Unidad 3
 En este repositorio se subirán los ejercicios a realizar en la actividad de la unidad 3
 <h3>Resolver Los ejercicios <strong>5,6,7,11,13,14 y 15</strong></h3>
@@ -24,6 +24,8 @@ En este repositorio se subirán los ejercicios a realizar en la actividad de la 
 ---
 
 13. Crear un programa que permite calcular un número al azar de 1 a 50. <br>
+**Solución**: <a href="https://github.com/Cipa-de-Algoritmo-y-programacion/Actividad-Unidad-3/blob/main/Ejercicio13.java">archivo</a>
+
 ---
 14. Desarrollar un algoritmo que permita calcular si un numero ingresa por
 teclado es perfecto o no. (Consultar el concepto de número perfecto). <br>
